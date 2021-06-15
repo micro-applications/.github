@@ -1,5 +1,5 @@
 {
-  "name": "Gated Checkin",
+  "name": "NodeJs: Gated Checkin",
   "description": "Gated checkin CI workflow template.",
   "iconName": "nodejs-icon",
   "categories": [
