@@ -1,0 +1,11 @@
+{
+  "name": "Gated Checkin",
+  "description": "Gated checkin CI workflow template.",
+  "iconName": "nodejs-icon",
+  "categories": [
+    "NodeJS"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
