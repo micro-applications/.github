@@ -3,7 +3,7 @@
   "description": "Gated checkin CI workflow template.",
   "iconName": "nodejs-icon",
   "categories": [
-    "NodeJS"
+    "JavaScript"
   ],
   "filePatterns": [
     "package.json$"
