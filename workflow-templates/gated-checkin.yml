@@ -11,3 +11,4 @@ jobs:
           node-version: 14.17.0
       - run: npm ci
       - run: npm test -- --coverage --passWithNoTests
+      - run: ls
